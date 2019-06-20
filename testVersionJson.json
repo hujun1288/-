@@ -1,0 +1,18 @@
+{"datas": [
+		{
+			"Id": 1,
+			"AppId": "test",
+			"AppName":"myApp",
+			"Version":"1.0",
+			"VersionCode":10,
+			"FilePathFull":"http://172.31.1.72:8080/huTest/www.zip",
+			"FilePath":"http://172.31.1.72:8080/huTest/www.zip",
+			"ForceUpdates":0,
+			"FullFileSize":23,
+			"FileSize":3,
+			"AppType":"html",
+			"Scope":"",
+			"CreateTime":"2019-04-28 08:56:23"
+		}
+	]
+}
